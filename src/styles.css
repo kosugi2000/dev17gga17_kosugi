@@ -1,0 +1,20 @@
+#a {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .insta{
+    margin: 40px;
+    width: 150px;
+    height: 150px;
+    background: pink;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.5);
+  }
+
+  .habahiro{
+    margin: 0 auto;
+    width: 80%;
+    height: 100px;
+  }
